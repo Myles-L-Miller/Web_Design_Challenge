@@ -1,0 +1,13 @@
+#mainimage{
+    width:400px;
+    height:400px;
+    float: left;
+}
+.mainimagetitle{
+    color: blue; 
+    margin-top: 15px;
+}
+.smallimage{
+    width:200px;
+    height:200px;
+}
